@@ -6,7 +6,7 @@ class Index(TemplateView):
 
     def get_context_data(self):
         context = super().get_context_data()
-        context["username"] = "まさきんぐ"
+        context["username"] = "そう"
         return context
 
 
