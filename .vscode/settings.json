@@ -1,4 +1,8 @@
 {
-    "python.pythonPath": "/Users/or1os/.local/share/virtualenvs/testproject-4uYzt6T_/bin/python"
+    "python.pythonPath": "/Users/or1os/.local/share/virtualenvs/testproject-4uYzt6T_/bin/python",
+    "cSpell.words": [
+        "testapp",
+        "wsgi"
+    ]
     
 }
